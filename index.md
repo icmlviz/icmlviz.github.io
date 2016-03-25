@@ -20,11 +20,11 @@ Deep networks have had profound impact across machine learning research and in m
 
 ## Topics:##
 
-•	directly visualizing the activations and parameters in intuitive aggregates
+•	Directly visualizing the activations and parameters in intuitive aggregates
 
-•	visualizing weights as features
+•	Visualizing weights as features
 
-•	visualizing gradient aggregates during training
+•	Visualizing gradient aggregates during training
 
 •	Improving interpretability of networks:
 
@@ -32,23 +32,23 @@ Deep networks have had profound impact across machine learning research and in m
 
 •	Sensitivity/stability of network behavior
 
-•	visualizing loss function geometry and the trajectory of the gradient descent process
+•	Visualizing loss function geometry and the trajectory of the gradient descent process
 
-•	visual representation of the input-output mapping of the network
+•	Visual representation of the input-output mapping of the network
 
-•	visualizing alternative structures and their performance
+•	Visualizing alternative structures and their performance
 
-•	monitoring/debugging the training process, i.e to detect saddle points or local optima, saturation units
+•	Monitoring/debugging the training process, i.e to detect saddle points or local optima, saturation units
 
-•	visualizing distributed training methods across a cluster
+•	Visualizing distributed training methods across a cluster
 
-•	using animation in network visualization
+•	Using animation in network visualization
 
-•	interactive visualizations for exploration or parameter tuning
+•	Interactive visualizations for exploration or parameter tuning
 
-•	software architectures for effective visualization
+•	Software architectures for effective visualization
 
-•	visualization and interaction user interfaces
+•	Visualization and interaction user interfaces
 
 
 
