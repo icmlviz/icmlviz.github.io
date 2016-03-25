@@ -4,10 +4,10 @@
     <title>ICML Visualization Workshop</title>
     <description>Built with Jekyll
 </description>
-    <link>http://yourdomain.com/ICMLViz/</link>
-    <atom:link href="http://yourdomain.com/ICMLViz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2016 13:50:28 -0800</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 13:50:28 -0800</lastBuildDate>
+    <link>http://icmlviz.github.io/</link>
+    <atom:link href="http://icmlviz.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Mar 2016 09:59:55 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Mar 2016 09:59:55 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -23,8 +23,8 @@
 
 </description>
         <pubDate>Fri, 01 May 2015 17:23:33 -0700</pubDate>
-        <link>http://yourdomain.com/ICMLViz/jekyll/update/2015/05/01/No%20comments.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/ICMLViz/jekyll/update/2015/05/01/No%20comments.html</guid>
+        <link>http://icmlviz.github.io/jekyll/update/2015/05/01/No%20comments.html</link>
+        <guid isPermaLink="true">http://icmlviz.github.io/jekyll/update/2015/05/01/No%20comments.html</guid>
         
         
         <category>jekyll</category>
@@ -51,8 +51,8 @@
 
 </description>
         <pubDate>Thu, 30 Apr 2015 17:23:33 -0700</pubDate>
-        <link>http://yourdomain.com/ICMLViz/jekyll/update/2015/04/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/ICMLViz/jekyll/update/2015/04/30/welcome-to-jekyll.html</guid>
+        <link>http://icmlviz.github.io/jekyll/update/2015/04/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://icmlviz.github.io/jekyll/update/2015/04/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

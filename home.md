@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+permalink: /home/
 ---
 
 # Workshop on Visualization for Deep Learning
