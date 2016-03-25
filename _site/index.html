@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>ICML Visualization Workshop</title>
+  <meta name="description" content="Built with Jekyll
+">
+
+  <link rel="stylesheet" href="/ICMLViz/css/main.css">
+  <link rel="canonical" href="http://yourdomain.com/ICMLViz/">
+  <link rel="alternate" type="application/rss+xml" title="ICML Visualization Workshop" href="http://yourdomain.com/ICMLViz/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/ICMLViz/">ICML Visualization Workshop</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <h1 id="workshop-on-visualization-for-deep-learning">Workshop on Visualization for Deep Learning</h1>
+
+<h2 id="organizers">Organizers:</h2>
+
+<h5 id="biye-jiang-uc-berkeley-bjiangberkeleyedu">Biye Jiang (UC Berkeley, bjiang@berkeley.edu)</h5>
+
+<h5 id="john-canny-uc-berkeley-cannyberkeleyedu">John Canny (UC Berkeley, canny@berkeley.edu)</h5>
+
+<h5 id="polo-chau-georgia-tech-pologatechedu">Polo Chau (Georgia Tech, polo@gatech.edu)</h5>
+
+<h5 id="aditya-khosla-mit-khoslacsailmitedu">Aditya Khosla (MIT, khosla@csail.mit.edu)</h5>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>Deep networks have had profound impact across machine learning research and in many application areas. DNNs are complex to design and train. They are non-linear systems that almost always have many local optima and are often sensitive to training parameter settings and initial state. Systematic optimization of structure and hyperparameters is possible e.g. with Bayesian optimization, but hampered by the expense of training each design on realistic datasets. Exploration is still ongoing for best design principles. We argue that visualization can play an essential role in understanding DNNs and in developing new design principles. With rich tools for visual exploration of networks during training and inference, one should be able to form closer ties between theory and practice: validating expected behaviors, and exposing the unexpected which can lead to new insights. Likely topics for the workshop include, but are not limited to:</p>
+
+<h2 id="topics">Topics:</h2>
+
+<p>•	directly visualizing the activations and parameters in intuitive aggregates</p>
+
+<p>•	visualizing weights as features</p>
+
+<p>•	visualizing gradient aggregates during training</p>
+
+<p>•	Improving interpretability of networks:</p>
+
+<p>•	Localizing “responsbility” in the network for particular outputs</p>
+
+<p>•	Sensitivity/stability of network behavior</p>
+
+<p>•	visualizing loss function geometry and the trajectory of the gradient descent process</p>
+
+<p>•	visual representation of the input-output mapping of the network</p>
+
+<p>•	visualizing alternative structures and their performance</p>
+
+<p>•	monitoring/debugging the training process, i.e to detect saddle points or local optima, saturation units</p>
+
+<p>•	visualizing distributed training methods across a cluster</p>
+
+<p>•	using animation in network visualization</p>
+
+<p>•	interactive visualizations for exploration or parameter tuning</p>
+
+<p>•	software architectures for effective visualization</p>
+
+<p>•	visualization and interaction user interfaces</p>
+
+<h2 id="motivation">Motivation</h2>
+
+<p>Visualization has already proven its power to inform the design of DNNs. It was an essential part of Clarifai’s entry that won the ImageNet 2013 Classification Challenge [Zeiler 2014]. “Deconvnet”s are now a powerful tool in the toolbox for deep net design. Image-based nets are perhaps the most natural domain for visualization, but we believe it applies in many other domains. Here are some representative areas where better visualization could inform design:</p>
+
+<h3 id="structure-design">Structure Design:</h3>
+
+<p>There are many potential pitfalls in DNNs, and visualization can help expose them. The “vanishing gradient” problem is an issue for RNNs, but quantifying its effects helps draw the line between potential and actual failure. Many intuitive metrics can be applied to the design of DNN layers, and visualizing these across the entire network can quickly help find the best structures. Some straightforward visualizations used in [Glorot 2010] already proved to be very useful. In contrast to black-box methods like Bayesian optimization, visualization helps discover why a particular structure is doing poorly, and potentially how to improve it.</p>
+
+<h3 id="improving-interpretability-of-dnns">Improving Interpretability of DNNs:</h3>
+
+<p>DNNs are powerful predictors under the chosen loss function on predictions. But it is notoriously difficult to infer more than the prediction itself. How confident is the prediction? How sensitive is it to the training data? What features are most important in the DNN’s output?  What are the most (visually) similar inputs and how do their outputs vary? What are the most similar inputs based on the networks’ feature maps? Visualization[Zeiler 2014, Karpathy 2015, Yosinski 2015] is critical for answering most of these questions. Also, several work [Zhu 2014, Mahendran 2015, Dosovitskiy 2015] have been focusing on generating images from the generative CNN models to interpret its internal behavior.</p>
+
+<h3 id="improving-hyperparameter-tuning">Improving Hyperparameter Tuning:</h3>
+
+<p>DNNs are highly sensitive to hyperparameter settings, and well-tuned parameters can lead to orders-of-magnitude improvements in training efficiency. The optimal learning rates for complex networks are highly dynamic. In one study, training an image digit recognizer apparently followed a pattern of training the network in “waves” from last to first layer [Maclaurin 2015]. The graphs in that paper already suggest abstraction from that particular model to others. They also suggest various theoretical mechanisms for the optimal training trajectories.</p>
+
+<h3 id="improving-parallel-training-of-dnns">Improving parallel training of DNNs:</h3>
+<p>Many DNN applications could leverage much larger training data than is practical today. Training is likely to be much more distributed in future, and more complicated: basic SGD does not scale, and does not use the potential of the cluster to explore the parameter space. We believe that parallel MCMC methods will be very important in future, but in any case, optimization of any distributed training process[Zhang 2015] is much more challenging than on a single machine. For deep reinforcement learning [Nair 2015, Mnih 2016], the problems are even more challenging. Visualization can help expose the complex interactions across the network, and inform the design of better methods.</p>
+
+<p>These topics are representative only. Visualization has the potential to impact many other areas of deep learning research.</p>
+
+<h2 id="tentative-schedule">Tentative Schedule</h2>
+
+<p>Morning Session: (9-noon)</p>
+
+<p>Welcome and goals for the workshop (20 minutes)</p>
+
+<p>Invited talk: 45 mins + 15 minutes questions</p>
+
+<p>Break (20 minutes)</p>
+
+<p>Research talks (3 @ 20 minutes)</p>
+
+<p>Lunch + posters (80 minutes)</p>
+
+<p>Afternoon Session: (1pm-5:30pm)</p>
+
+<p>Invited talk: 45 mins + 15 minutes questions</p>
+
+<p>Research talks (2 @ 20 minutes)</p>
+
+<p>Break (20 minutes)</p>
+
+<p>Research talks (2 @ 20 minutes)</p>
+
+<p>Breakout Sessions (80 minutes)</p>
+
+<p>Report from Breakout groups (30 minutes)</p>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">ICML Visualization Workshop</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>ICML Visualization Workshop</li>
+          <li><a href="mailto:bjiang@berkeley.edu">bjiang@berkeley.edu</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">Built with Jekyll
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
