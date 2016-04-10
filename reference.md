@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: default
+title: Reference
 permalink: /reference/
 ---
 
 ## List of reference papers##
 
-Since this is the first workshop on visualzation for deep learning, here is a list of the papers in the past that related to this topics. 
+Since this is the first workshop on visualzation for deep learning, here is a list of the papers in the past that related to this topic. 
 Feel free to email bjiang [at] berkeley.edu if you know any other related papers. This will greatly help us find out the audience and contributors for the workshop. 
 
 ------------CNN & Vision---------------
