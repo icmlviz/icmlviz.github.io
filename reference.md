@@ -20,6 +20,9 @@ Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pascal Vincent
 ***[Evaluating the visualization of what a Deep Neural Network has learned]***
 Wojciech Samek, Alexander Binder, Gregoire Montavon, Sebastian Bach,  Klaus-Robert Muller
 
+***[Explaining NonLinear Classification Decisions with Deep Taylor Decomposition]***
+Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, Klaus-Robert Muller
+
 ***[Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]***
 Anh Nguyen, Jason Yosinski, Jeff Clune
 
@@ -130,3 +133,5 @@ Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 [Do Convnets Learn Correspondence?]: https://papers.nips.cc/paper/5420-do-convnets-learn-correspondence.pdf
 
 [Power to the People: The Role of Humans in Interactive Machine Learning]: http://research.microsoft.com/en-us/um/people/samershi/papers/amershi_AIMagazine2014.pdf
+
+[Explaining NonLinear Classification Decisions with Deep Taylor Decomposition]: http://arxiv.org/pdf/1512.02479v1.pdf
