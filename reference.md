@@ -44,20 +44,8 @@ Aravindh Mahendran, Andrea Vedaldi
 ***[Inverting Visual Representations with Convolutional Networks]***
 Alexey Dosovitskiy, Thomas Brox
 
-***[An Interactive Node-Link Visualization of Convolutional Neural Networks]***
-Adam W. Harley
-
-***[ML-o-scope: a diagnostic visualization system for deep machine learning pipelines]***
-Daniel Bruckner
-
-***[Visualizing and comparing convolutional neural networks]***
-Wei Yu, Kuiyuan Yang, Yalong Bai, Yong Rui, Hongxun Yao
-
 ***[Generative modeling of convolutional neural networks]***
 Jifeng Dai, Yang Lu, Ying Nian Wu
-
-***[Discovering internal representations from object-CNNs using population encoding]***
-Jianyu Wang, Zhishuai Zhang, Vittal Premachandran, Alan Yuille
 
 ***[AverageExplorer: Interactive Exploration and Alignment of Visual Data Collections]***
 Jun-Yan Zhu, Yong Jae Lee, Alexei Efros
@@ -68,6 +56,17 @@ Carl Vondrick, Aditya Khosla, Hamed Pirsiavash, Tomasz Malisiewicz, Antonio Torr
 ***[Do Convnets Learn Correspondence?]***
 Jonathan Long, Ning Zhang, Trevor Darrell
 
+***[An Interactive Node-Link Visualization of Convolutional Neural Networks]***
+Adam W. Harley
+
+***[ML-o-scope: a diagnostic visualization system for deep machine learning pipelines]***
+Daniel Bruckner
+
+***[Visualizing and comparing convolutional neural networks]***
+Wei Yu, Kuiyuan Yang, Yalong Bai, Yong Rui, Hongxun Yao
+
+***[Discovering internal representations from object-CNNs using population encoding]***
+Jianyu Wang, Zhishuai Zhang, Vittal Premachandran, Alan Yuille
 
 ------------RNN & Others---------------
 
