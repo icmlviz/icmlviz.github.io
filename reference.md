@@ -26,6 +26,9 @@ Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, Klaus-Rober
 ***[Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]***
 Anh Nguyen, Jason Yosinski, Jeff Clune
 
+***[Understanding Neural Networks Through Deep Visualization]***
+Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, Hod Lipson
+
 ***[Inceptionism: Going Deeper into Neural Networks]*** 
 Alexander Mordvintsev, Christopher Olah,  Mike Tyka
 
@@ -38,8 +41,8 @@ Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
 ***[Understanding Deep Image Representations by Inverting Them]***
 Aravindh Mahendran, Andrea Vedaldi
 
-***[Understanding Neural Networks Through Deep Visualization]***
-Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, Hod Lipson
+***[Inverting Visual Representations with Convolutional Networks]***
+Alexey Dosovitskiy, Thomas Brox
 
 ***[An Interactive Node-Link Visualization of Convolutional Neural Networks]***
 Adam W. Harley
@@ -136,6 +139,7 @@ Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 
 [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition]: http://arxiv.org/pdf/1512.02479v1.pdf
 
+[Inverting Visual Representations with Convolutional Networks]: http://arxiv.org/pdf/1506.02753v3.pdf
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
