@@ -135,3 +135,15 @@ Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 [Power to the People: The Role of Humans in Interactive Machine Learning]: http://research.microsoft.com/en-us/um/people/samershi/papers/amershi_AIMagazine2014.pdf
 
 [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition]: http://arxiv.org/pdf/1512.02479v1.pdf
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48160406-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
