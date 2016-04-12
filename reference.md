@@ -79,6 +79,9 @@ Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky
 ***[Understanding the difficulty of training deep feedforward neural networks]***
 Xavier Glorot, Yoshua Bengio
 
+***[The Loss Surfaces of Multilayer Networks]***
+Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, Yann LeCun
+
 ***[Graying the black box: Understanding DQNs]***
 Tom Zahavy, Nir Ben Zrihem, Shie Mannor 
 
@@ -139,6 +142,9 @@ Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition]: http://arxiv.org/pdf/1512.02479v1.pdf
 
 [Inverting Visual Representations with Convolutional Networks]: http://arxiv.org/pdf/1506.02753v3.pdf
+
+[The Loss Surfaces of Multilayer Networks]: http://arxiv.org/pdf/1412.0233v3.pdf
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
