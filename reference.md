@@ -88,6 +88,13 @@ Tom Zahavy, Nir Ben Zrihem, Shie Mannor
 ***[Power to the People: The Role of Humans in Interactive Machine Learning]***
 Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 
+***[Tensorflow Playground]***
+Daniel Smilkov, Shan Carter
+
+***[Neural Networks, Manifolds, and Topology]***
+Christopher Olah
+
+
 
 
 [Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]: http://arxiv.org/pdf/1602.03616v1.pdf
@@ -144,6 +151,10 @@ Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 [Inverting Visual Representations with Convolutional Networks]: http://arxiv.org/pdf/1506.02753v3.pdf
 
 [The Loss Surfaces of Multilayer Networks]: http://arxiv.org/pdf/1412.0233v3.pdf
+
+[Tensorflow Playground]: http://playground.tensorflow.org/
+
+[Neural Networks, Manifolds, and Topology]: http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
 
 <script>
