@@ -91,6 +91,9 @@ Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu
 ***[Power to the People: The Role of Humans in Interactive Machine Learning]***
 Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
 
+***[wevi: Word embedding visual inspector]***
+Xin Rong
+
 ***[Tensorflow Playground]***
 Daniel Smilkov, Shan Carter
 
@@ -160,6 +163,9 @@ Christopher Olah
 [Neural Networks, Manifolds, and Topology]: http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
 [Recurrent Models of Visual Attention]: http://arxiv.org/pdf/1406.6247v1.pdf
+
+[wevi: Word embedding visual inspector]: http://ronxin.github.io/wevi/
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
