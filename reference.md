@@ -68,7 +68,7 @@ Wei Yu, Kuiyuan Yang, Yalong Bai, Yong Rui, Hongxun Yao
 ***[Discovering internal representations from object-CNNs using population encoding]***
 Jianyu Wang, Zhishuai Zhang, Vittal Premachandran, Alan Yuille
 
-------------RNN & Others---------------
+------------RNN, Attention & Others---------------
 
 ***[Visualizing and Understanding Recurrent Networks]***
 Andrej Karpathy, Justin Johnson, Li Fei-Fei
@@ -84,6 +84,9 @@ Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, Yann LeCun
 
 ***[Graying the black box: Understanding DQNs]***
 Tom Zahavy, Nir Ben Zrihem, Shie Mannor 
+
+***[Recurrent Models of Visual Attention]***
+Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu
 
 ***[Power to the People: The Role of Humans in Interactive Machine Learning]***
 Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza
@@ -156,6 +159,7 @@ Christopher Olah
 
 [Neural Networks, Manifolds, and Topology]: http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
+[Recurrent Models of Visual Attention]: http://arxiv.org/pdf/1406.6247v1.pdf
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
