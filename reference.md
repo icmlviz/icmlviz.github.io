@@ -15,7 +15,7 @@ Feel free to email bjiang [at] berkeley.edu if you know any other related papers
 Matthew D. Zeiler, Rob Fergus
 
 ***[Visualizing Higher-Layer Features of a Deep Network]***
-Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pascal Vincent
+Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pascal Vincen  t
 
 ***[Evaluating the visualization of what a Deep Neural Network has learned]***
 Wojciech Samek, Alexander Binder, Gregoire Montavon, Sebastian Bach,  Klaus-Robert Muller
@@ -78,6 +78,9 @@ Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky
 
 ***[Understanding the difficulty of training deep feedforward neural networks]***
 Xavier Glorot, Yoshua Bengio
+
+***[Qualitatively characterizing neural network optimization problems]***
+Ian J. Goodfellow, Oriol Vinyals, Andrew M. Saxe
 
 ***[The Loss Surfaces of Multilayer Networks]***
 Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, Yann LeCun
@@ -166,6 +169,7 @@ Christopher Olah
 
 [wevi: Word embedding visual inspector]: http://ronxin.github.io/wevi/
 
+[Qualitatively characterizing neural network optimization problems]: http://arxiv.org/pdf/1412.6544v6.pdf
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

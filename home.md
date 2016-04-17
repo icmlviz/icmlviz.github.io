@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-# Workshop on Visualization for Deep Learning
+# 2016 Workshop on Visualization for Deep Learning
 
 ## Organizers:
 
@@ -45,6 +45,14 @@ Workshop: ***June 23, 2016***
 
 ## Invited speakers ##
 Coming soon
+
+## Program Committee ##
+[Jeff Clune], University of Wyoming
+[Wojciech Samek], Heinrich Hertz Institute 
+[Yingnian Wu], University of California, Los Angeles
+[Jason Yosinski], Cornell University
+[Junyan Zhu], University of California, Berkeley
+
 
 ## Topics:##
 Likely topics for the workshop include, but are not limited to:
@@ -91,6 +99,11 @@ Likely topics for the workshop include, but are not limited to:
 [guideline]: http://icml.cc/2016/?page_id=151
 [https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
 [Here]: /reference	
+[Jeff Clune]: http://jeffclune.com/
+[Wojciech Samek]: http://iphome.hhi.de/samek/
+[Yingnian Wu]: http://www.stat.ucla.edu/~ywu/
+[Jason Yosinski]: http://yosinski.com/
+[Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
