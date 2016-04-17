@@ -47,9 +47,13 @@ Coming soon
 
 ## Program Committee ##
 [Jeff Clune], University of Wyoming
-[Wojciech Samek], Heinrich Hertz Institute 
+
+[Wojciech Samek], Heinrich Hertz Institute
+ 
 [Yingnian Wu], University of California, Los Angeles
+
 [Jason Yosinski], Cornell University
+
 [Junyan Zhu], University of California, Berkeley
 
 
