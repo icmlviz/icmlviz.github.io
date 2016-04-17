@@ -6,15 +6,7 @@ permalink: /home/
 
 # 2016 Workshop on Visualization for Deep Learning
 
-## Organizers:
 
-##### [Biye Jiang] (UC Berkeley, bjiang@berkeley.edu)
-	
-##### [John Canny] (UC Berkeley, canny@berkeley.edu)
-
-##### [Polo Chau] (Georgia Tech, polo@gatech.edu)
-
-##### [Aditya Khosla] (MIT, khosla@csail.mit.edu)
 
 ## Abstract##
 
@@ -46,16 +38,27 @@ Workshop: ***June 23, 2016***
 ## Invited speakers ##
 Coming soon
 
+## Organizers:
+	
+##### [John Canny] (UC Berkeley, canny@berkeley.edu)
+
+##### [Polo Chau] (Georgia Tech, polo@gatech.edu)
+
+##### [Biye Jiang] (UC Berkeley, bjiang@berkeley.edu)
+
+##### [Aditya Khosla] (MIT, khosla@csail.mit.edu)
+
 ## Program Committee ##
-[Jeff Clune], University of Wyoming
 
-[Wojciech Samek], Heinrich Hertz Institute
+##### [Jeff Clune], University of Wyoming
+
+##### [Wojciech Samek], Heinrich Hertz Institute
  
-[Yingnian Wu], University of California, Los Angeles
+##### [Yingnian Wu], University of California, Los Angeles
 
-[Jason Yosinski], Cornell University
+##### [Jason Yosinski], Cornell University
 
-[Junyan Zhu], University of California, Berkeley
+##### [Junyan Zhu], University of California, Berkeley
 
 
 ## Topics:##
