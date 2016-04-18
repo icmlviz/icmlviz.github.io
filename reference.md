@@ -15,7 +15,7 @@ Feel free to email bjiang [at] berkeley.edu if you know any other related papers
 Matthew D. Zeiler, Rob Fergus
 
 ***[Visualizing Higher-Layer Features of a Deep Network]***
-Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pascal Vincen  t
+Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pascal Vincent
 
 ***[Evaluating the visualization of what a Deep Neural Network has learned]***
 Wojciech Samek, Alexander Binder, Gregoire Montavon, Sebastian Bach,  Klaus-Robert Muller
@@ -52,6 +52,12 @@ Jun-Yan Zhu, Yong Jae Lee, Alexei Efros
 
 ***[HOGgles: Visualizing Object Detection Features]***
 Carl Vondrick, Aditya Khosla, Hamed Pirsiavash, Tomasz Malisiewicz, Antonio Torralba
+
+***[Object Detectors Emerge in Deep Scene CNNs]*** 
+Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba
+
+***[Learning Deep Features for Discriminative Localization]*** 
+Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva and Antonio Torralba  
 
 ***[Do Convnets Learn Correspondence?]***
 Jonathan Long, Ning Zhang, Trevor Darrell
@@ -170,6 +176,10 @@ Christopher Olah
 [wevi: Word embedding visual inspector]: http://ronxin.github.io/wevi/
 
 [Qualitatively characterizing neural network optimization problems]: http://arxiv.org/pdf/1412.6544v6.pdf
+
+[Object Detectors Emerge in Deep Scene CNNs]: http://arxiv.org/pdf/1412.6856v2.pdf
+
+[Learning Deep Features for Discriminative Localization]: http://arxiv.org/pdf/1512.04150v1.pdf
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
