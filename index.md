@@ -4,9 +4,6 @@ layout: default
 
 # 2016 Workshop on Visualization for Deep Learning
 
-![My helpful screenshot](/assets/fig.png)
-
-######  Image credit: HOGgles: Visualizing Object Detection Features; Visualizing and Understanding Recurrent Networks; Multifaceted Feature Visualization; Qualitatively characterizing neural network optimization problems 
 
 
 ## Abstract##
