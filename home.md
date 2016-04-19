@@ -5,8 +5,10 @@ permalink: /home/
 ---
 
 # 2016 Workshop on Visualization for Deep Learning
+![Teaser](/assets/deepdream.jpg)
 
-
+###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
+ 
 ## Abstract##
 
 Deep networks have had profound impact across machine learning research and in many application areas. DNNs are complex to design and train. They are non-linear systems that almost always have many local optima and are often sensitive to training parameter settings and initial state. Systematic optimization of structure and hyperparameters is possible e.g. with Bayesian optimization, but hampered by the expense of training each design on realistic datasets. Exploration is still ongoing for best design principles. We argue that visualization can play an essential role in understanding DNNs and in developing new design principles. With rich tools for visual exploration of networks during training and inference, one should be able to form closer ties between theory and practice: validating expected behaviors, and exposing the unexpected which can lead to new insights. 
@@ -27,7 +29,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 
 ## Important Dates ##
 
-Submission deadline: ***11:59PM PDT, May 1, 2016***
+Submission deadline: ***11:59PM PDT, May 1, 2016***  (Let us know if you need more time)
 
 Acceptance notification:  ***May 10, 2016***
 
@@ -113,6 +115,11 @@ Likely topics for the workshop include, but are not limited to:
 [Jason Yosinski]: http://yosinski.com/
 [Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
 [Shixia Liu]: http://shixialiu.com/
+[Deep Dream Generator]: http://deepdreamgenerator.com/
+[Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
+
+
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

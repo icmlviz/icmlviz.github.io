@@ -3,7 +3,10 @@ layout: default
 ---
 
 # 2016 Workshop on Visualization for Deep Learning
+![Teaser](/assets/deepdream.jpg)
 
+###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
+ 
 
 
 ## Abstract##
@@ -26,7 +29,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 
 ## Important Dates ##
 
-Submission deadline: ***11:59PM PDT, May 1, 2016***
+Submission deadline: ***11:59PM PDT, May 1, 2016***   (Let us know if you need more time)
 
 Acceptance notification:  ***May 10, 2016***
 
@@ -113,6 +116,10 @@ Likely topics for the workshop include, but are not limited to:
 [Jason Yosinski]: http://yosinski.com/
 [Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
 [Shixia Liu]: http://shixialiu.com/
+[Deep Dream Generator]: http://deepdreamgenerator.com/
+[Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
+
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
