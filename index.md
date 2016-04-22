@@ -52,6 +52,8 @@ Coming soon
 
 ## Program Committee ##
 
+##### [Byron Boots], Georgia Tech
+
 ##### [Jeff Clune], University of Wyoming
 
 ##### [Shixia Liu], Tsinghua Univerisity
@@ -116,6 +118,7 @@ Likely topics for the workshop include, but are not limited to:
 [Jason Yosinski]: http://yosinski.com/
 [Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
 [Shixia Liu]: http://shixialiu.com/
+[Byron Boots]: http://www.cc.gatech.edu/~bboots3/
 [Deep Dream Generator]: http://deepdreamgenerator.com/
 [Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 
