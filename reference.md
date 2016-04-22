@@ -88,6 +88,9 @@ Xavier Glorot, Yoshua Bengio
 ***[Qualitatively characterizing neural network optimization problems]***
 Ian J. Goodfellow, Oriol Vinyals, Andrew M. Saxe
 
+***[Adversarial Perturbations of Deep Neural Networks]***
+David Warde-Farley, Ian Goodfellow
+
 ***[The Loss Surfaces of Multilayer Networks]***
 Anna Choromanska, Mikael Henaff, Michael Mathieu, Gerard Ben Arous, Yann LeCun
 
@@ -180,6 +183,8 @@ Christopher Olah
 [Object Detectors Emerge in Deep Scene CNNs]: http://arxiv.org/pdf/1412.6856v2.pdf
 
 [Learning Deep Features for Discriminative Localization]: http://arxiv.org/pdf/1512.04150v1.pdf
+
+[Adversarial Perturbations of Deep Neural Networks]: http://www-etud.iro.umontreal.ca/~wardefar/publications/adv_perturb_chapter.pdf
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
