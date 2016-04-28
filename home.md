@@ -59,6 +59,8 @@ Coming soon
 
 ##### [Wojciech Samek], Heinrich Hertz Institute
  
+##### [Le Song], Georgia Tech
+
 ##### [Yingnian Wu], University of California, Los Angeles
 
 ##### [Jason Yosinski], Cornell University
@@ -119,6 +121,7 @@ Likely topics for the workshop include, but are not limited to:
 [Junyan Zhu]: http://www.eecs.berkeley.edu/~junyanz/
 [Shixia Liu]: http://shixialiu.com/
 [Byron Boots]: http://www.cc.gatech.edu/~bboots3/
+[Le Song]: http://www.cc.gatech.edu/~lsong/
 [Deep Dream Generator]: http://deepdreamgenerator.com/
 [Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 
