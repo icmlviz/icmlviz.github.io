@@ -37,7 +37,14 @@ Workshop: ***June 23, 2016***
 
 
 ## Invited speakers ##
-Coming soon
+
+##### [Martin Wattenberg] (Google)
+
+##### [Christopher Olah] (Google)
+
+##### Luke Yeager (NVIDIA)
+
+(More to come!)
 
 ## Organizers:
 	
@@ -124,6 +131,8 @@ Likely topics for the workshop include, but are not limited to:
 [Le Song]: http://www.cc.gatech.edu/~lsong/
 [Deep Dream Generator]: http://deepdreamgenerator.com/
 [Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
+[Martin Wattenberg]: http://www.bewitched.com/about.html
+[Christopher Olah]: http://colah.github.io/about.html
 
 
 
