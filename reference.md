@@ -65,6 +65,9 @@ Jonathan Long, Ning Zhang, Trevor Darrell
 ***[Towards Better Analysis of Deep Convolutional Neural Networks]***
 Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, Shixia Liu
 
+***[A New Method to Visualize Deep Neural Networks]***
+Luisa M. Zintgraf, Taco S. Cohen, Max Welling
+
 ***[An Interactive Node-Link Visualization of Convolutional Neural Networks]***
 Adam W. Harley
 
@@ -190,6 +193,8 @@ Christopher Olah
 [Adversarial Perturbations of Deep Neural Networks]: http://www-etud.iro.umontreal.ca/~wardefar/publications/adv_perturb_chapter.pdf
 
 [Towards Better Analysis of Deep Convolutional Neural Networks]: http://arxiv.org/pdf/1604.07043v1.pdf
+
+[A New Method to Visualize Deep Neural Networks]: http://arxiv.org/pdf/1603.02518v1.pdf
 
 
 <script>
