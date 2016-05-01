@@ -29,7 +29,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 
 ## Important Dates ##
 
-Submission deadline: ***11:59PM PDT, May 1, 2016***   (Let us know if you need more time)
+Submission deadline: ***11:59PM PDT, May 5, 2016***   (Let us know if you need more time)
 
 Acceptance notification:  ***May 10, 2016***
 
