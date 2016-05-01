@@ -62,6 +62,9 @@ Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva and Antonio Torralba
 ***[Do Convnets Learn Correspondence?]***
 Jonathan Long, Ning Zhang, Trevor Darrell
 
+***[Towards Better Analysis of Deep Convolutional Neural Networks]***
+Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, Shixia Liu
+
 ***[An Interactive Node-Link Visualization of Convolutional Neural Networks]***
 Adam W. Harley
 
@@ -185,6 +188,9 @@ Christopher Olah
 [Learning Deep Features for Discriminative Localization]: http://arxiv.org/pdf/1512.04150v1.pdf
 
 [Adversarial Perturbations of Deep Neural Networks]: http://www-etud.iro.umontreal.ca/~wardefar/publications/adv_perturb_chapter.pdf
+
+[Towards Better Analysis of Deep Convolutional Neural Networks]: http://arxiv.org/pdf/1604.07043v1.pdf
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
