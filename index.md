@@ -29,7 +29,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 
 ## Important Dates ##
 
-Submission deadline: ***11:59PM PDT, May 5, 2016***   (Let us know if you need more time)
+Submission deadline: ***9AM PDT, May 6, 2016***  (Send email to bjiang[at]berkeley.edu if you want to submit after the CMT deadline)
 
 Acceptance notification:  ***May 10, 2016***
 
