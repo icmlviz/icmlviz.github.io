@@ -38,7 +38,7 @@ Felix Grun, Christian Rupprecht, Federico Tombari
 Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, Klaus-Robert Muller
 
 
-***Interactive Demo: A Visual Analysis System for Analyzing Deep Convolutional Neural Networks***
+***[Interactive Demo: A Visual Analysis System for Analyzing Deep Convolutional Neural Networks]***
 Mengchen Liu
 
 
@@ -66,7 +66,8 @@ Wei Yu, Kuiyuan Yang, Yalong Bai, Hongxun Yao
 Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Mu ̈ller
 
 
-***Visualization of Deep Neural Networks***
+***A New Method to Visualize Deep Neural Networks***
 Luisa M. Zintgraf, Taco Cohen, Max Welling
 
 
+[Interactive Demo: A Visual Analysis System for Analyzing Deep Convolutional Neural Networks]: ../assets\2.pdf
