@@ -62,7 +62,7 @@ Wei Yu, Kuiyuan Yang, Yalong Bai, Hongxun Yao
 
 
 ***Analyzing and Validating Neural Networks Predictions***
-Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Mu ̈ller
+Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Muller
 
 
 ***[A New Method to Visualize Deep Neural Networks]***
