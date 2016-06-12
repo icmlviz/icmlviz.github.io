@@ -7,19 +7,29 @@ permalink: /schedule/
 ## Tentative Schedule##
 
 8:30-8:45 Opening remark 
-8:45-9:20 Invited talk.  
+
+8:45-9:20 Invited talk.
+
 9:20-9:40 Oral Paper talks (1 paper)
+
 9:40-10:00 Spotlight paper talks (3 paper)
+<br>
+10:30-11:00 Invited talk.
 
-10:30-11:00 Invited talk. 
 11:00-11:40 Oral Paper talks (2 paper)
+
 11:40-12:00 Spotlight paper talks (3 paper)
-
+<br>
+Breaks
+<br>
 13:30-13:50 Invited talk. 
-13:50-14:30 Oral Paper talks (2 paper)
-14:30-15:00 Spotlight paper talks (4 paper)
 
+13:50-14:30 Oral Paper talks (2 paper)
+
+14:30-15:00 Spotlight paper talks (4 paper)
+<br>
 15:30-16:20 Remaining oral paper talks (3 paper)
+
 16:20-16:30 Summarization 
 
 <script>
