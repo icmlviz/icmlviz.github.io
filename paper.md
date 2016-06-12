@@ -8,7 +8,7 @@ order: 2
 ***[Visualizing Dynamics: from t-SNE to SEMI-MDPs]***
 Nir Ben Zrihem, Tom Zahavy, Shie Mannor
 
-***Visual Tools for Debugging Neural Language Models***
+***[Visual Tools for Debugging Neural Language Models]***
 Xin Rong, Eytan Adar
 
 ***[Effective Visualizations for Training and Evaluating Deep Models]***
@@ -21,20 +21,20 @@ Daniel Smilkov, Shan Carter, D. Sculley, Fernanda B. Viegas, Martin Wattenberg
 ***Visualizing Deep Network Training Trajectories with PCA***
 Eliana Lorch
 
-***Towards Transparent AI Systems: Interpreting Visual Question Answering Models***
+***[Towards Transparent AI Systems: Interpreting Visual Question Answering Models]***
 Yash Goyal, Devi Parikh, Dhruv Batra
 
 
-***Human Attention in Visual Question Answering: Where Do Humans Choose to Look?***
+***[Human Attention in Visual Question Answering: Where Do Humans Choose to Look?]***
 Abhishek Das, Harsh Agrawal, Larry Zitnick, Devi Parikh, Dhruv Batra
 
-***Visualizing Online Learner Patterns***
-Christopher Vu Lee, Zachary A. Pardos
+***[Visualizing Online Learner Patterns]***
+Christopher Vu Le, Zachary A. Pardos
 
 ***[A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks]***
 Felix Grun, Christian Rupprecht, Federico Tombari 
 
-***Deep Taylor Decomposition of Neural Networks***
+***[Deep Taylor Decomposition of Neural Networks]***
 Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, Klaus-Robert Muller
 
 
@@ -50,10 +50,10 @@ Anh Nguyen, Jason Yosinski, Jeff Clune
 ***[Batch-Normalized Maxout Network in Network]***
 Jia-Ren Chang, Yong-Sheng Chen
 
-***Comparing Visual Representations within Convolutional Neural Networks: Toward a Quantitative and Statistical Approach***
+***[Comparing Visual Representations within Convolutional Neural Networks: Toward a Quantitative and Statistical Approach]***
 Chuan-Yung Tsai, David D. Cox
 
-***Visualizing Deep Texture Representations***
+***[Visualizing Deep Texture Representations]***
 Tsung-Yu Lin, Subhransu Maji
 
 
@@ -61,7 +61,7 @@ Tsung-Yu Lin, Subhransu Maji
 Wei Yu, Kuiyuan Yang, Yalong Bai, Hongxun Yao
 
 
-***Analyzing and Validating Neural Networks Predictions***
+***[Analyzing and Validating Neural Networks Predictions]***
 Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Muller
 
 
