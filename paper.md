@@ -25,7 +25,7 @@ Eliana Lorch
 Yash Goyal, Devi Parikh, Dhruv Batra
 
 
-***[Human Attention in Visual Question Answering: Where Do Humans Choose to Look?]***
+***[Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?]***
 Abhishek Das, Harsh Agrawal, Larry Zitnick, Devi Parikh, Dhruv Batra
 
 ***[Visualizing Online Learner Patterns]***
@@ -93,7 +93,7 @@ Luisa M. Zintgraf, Taco Cohen, Max Welling
 
 [Effective Visualizations for Training and Evaluating Deep Models]: ../assets/papers/16.pdf
 
-[Human Attention in Visual Question Answering: Where Do Humans Choose to Look?]: ../assets/papers/17.pdf
+[Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?]: ../assets/papers/17.pdf
 
 [Analyzing and Validating Neural Networks Predictions]: ../assets/papers/18.pdf
 
