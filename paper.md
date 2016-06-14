@@ -18,7 +18,7 @@ Luke Yeager
 Daniel Smilkov, Shan Carter, D. Sculley, Fernanda B. Viegas, Martin Wattenberg 
 
 
-***Visualizing Deep Network Training Trajectories with PCA***
+***[Visualizing Deep Network Training Trajectories with PCA]***
 Eliana Lorch
 
 ***[Towards Transparent AI Systems: Interpreting Visual Question Answering Models]***
@@ -50,7 +50,7 @@ Anh Nguyen, Jason Yosinski, Jeff Clune
 ***[Batch-Normalized Maxout Network in Network]***
 Jia-Ren Chang, Yong-Sheng Chen
 
-***[Comparing Visual Representations within Convolutional Neural Networks: Toward a Quantitative and Statistical Approach]***
+***[Characterizing Visual Representations within Convolutional Neural Networks: Toward a Quantitative Approach]***
 Chuan-Yung Tsai, David D. Cox
 
 ***[Visualizing Deep Texture Representations]***
@@ -77,7 +77,7 @@ Luisa M. Zintgraf, Taco Cohen, Max Welling
 
 [Batch-Normalized Maxout Network in Network]: ../assets/papers/6.pdf
 
-[Comparing Visual Representations within Convolutional Neural Networks: Toward a Quantitative and Statistical Approach]: ../assets/papers/7.pdf
+[Characterizing Visual Representations within Convolutional Neural Networks: Toward a Quantitative Approach]: ../assets/papers/7.pdf
 
 [Visualizing Deep Texture Representations]: ../assets/papers/8.pdf
 
