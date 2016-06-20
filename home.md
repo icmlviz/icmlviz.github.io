@@ -9,6 +9,8 @@ order: 1
 ![Teaser](/assets/deepdream.jpg)
 
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
+
+## ***[Schedule]*** is available now! ##
  
 ## Abstract##
 
@@ -65,17 +67,12 @@ Workshop: ***June 23, 2016***   (Astor at Marriott Marquis)
 ##### [Junyan Zhu], University of California, Berkeley
 
 
-## Call for papers:## 
-We accept many kinds of papers, such as (and not limited to): 
-Extended abstract, short papers, work-in-progress papers and demo papers. You can also submit your published work as 2-page summarization.
+## Sponsor ##
+<img src="/assets/googlelogo.png" width="200px"/>
 
-We encourage submissions of relevant work that has been previously published, or is to be presented at the main conference. The accepted papers will be posted on the workshop website and will not appear in the official ICML proceedings.
+<br>
 
-Submissions must be in PDF, written in English, no more than 8 pages long — shorter papers are welcome — and formatted according to the standard ICML 2016 [guideline]. Submissions do not have to be anonymized.
-
-For accepted papers, at least one author must attend the workshop to present the work.
-
-Submission website: [https://cmt3.research.microsoft.com/VDL2016]
+<img src="/assets/NVLogo_2D.jpg" width="200px"/>
 
 
 ## Topics:##
@@ -112,6 +109,19 @@ Likely topics for the workshop include, but are not limited to:
 •	Visualization and interaction user interfaces
 
 
+## <s>Call for papers:</s>## 
+We accept many kinds of papers, such as (and not limited to): 
+Extended abstract, short papers, work-in-progress papers and demo papers. You can also submit your published work as 2-page summarization.
+
+We encourage submissions of relevant work that has been previously published, or is to be presented at the main conference. The accepted papers will be posted on the workshop website and will not appear in the official ICML proceedings.
+
+Submissions must be in PDF, written in English, no more than 8 pages long — shorter papers are welcome — and formatted according to the standard ICML 2016 [guideline]. Submissions do not have to be anonymized.
+
+For accepted papers, at least one author must attend the workshop to present the work.
+
+Submission website: [https://cmt3.research.microsoft.com/VDL2016]
+
+
 
 
 [Biye Jiang]: http://byeah.github.io
@@ -134,7 +144,7 @@ Likely topics for the workshop include, but are not limited to:
 [Inceptionism]: http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html
 [Martin Wattenberg]: http://www.bewitched.com/about.html
 [Christopher Olah]: http://colah.github.io/about.html
-
+[Schedule]: /schedule
 
 
 <script>
