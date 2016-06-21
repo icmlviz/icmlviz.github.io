@@ -7,7 +7,7 @@ permalink: /schedule/
 
 8:30-8:45 Opening remark 
 
-8:45-9:15 Invited talk.  Martin Wattenberg (Google)
+8:45-9:15 Invited talk. ***Direct-Manipulation Visualization of Deep Networks*** Martin Wattenberg, Daniel Smilkov (Google)
 
 9:15-9:30 ***A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks*** Felix Grun, Christian Rupprecht, Federico Tombari
 
