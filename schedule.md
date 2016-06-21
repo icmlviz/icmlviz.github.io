@@ -62,7 +62,7 @@ Visualizing Deep Texture Representations
 
 <br>
 
-15:30-16:00 ***Interactive Exploration and Alignment of Visual Data Collections*** Junyan Zhu
+15:30-16:00 ***Realistic Visual Manipulation on the Natural Image Manifold*** Jun-Yan Zhu
 
 16:00-16:15 ***Visualizing Dynamics: from t-SNE to SEMI-MDPs*** Nir Ben Zrihem, Tom Zahavy, Shie Mannor
 
