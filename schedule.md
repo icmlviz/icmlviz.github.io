@@ -29,9 +29,9 @@ Visualizing Online Learner Patterns
 
 11:15-11:30 ***Analyzing and Validating Neural Networks Predictions*** Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Mullers
 
-11:30-11:50 ***Towards Transparent AI Systems: Interpreting Visual Question Answering Models***, ***Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?***
+11:30-11:45 ***Visualizing Deep Network Training Trajectories with PCA*** Eliana Lorch 
 
-11:50-12:00 Spotlight paper talks:
+11:45-12:00 Spotlight paper talks:
 
 Interactive Demo: A Visual Analysis System for Analyzing Deep Convolutional Neural Networks
 
@@ -50,15 +50,15 @@ Breaks
 
 13:50-14:05 ***Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks*** Anh Nguyen, Jason Yosinski, Jeff Clune
 
-14:05-14:20 ***Visualizing Deep Network Training Trajectories with PCA*** Eliana Lorch
+14:05-14:25 ***Towards Transparent AI Systems: Interpreting Visual Question Answering Models***, ***Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?***
 
-14:20-14:30 Spotlight paper talks:
+14:25-14:40 Spotlight paper talks:
 
 A New Method to Visualize Deep Neural Networks
 
 Visualizing Deep Texture Representations
 
-14:30-15:00 Discussion
+14:40-15:00 Discussion
 
 <br>
 
