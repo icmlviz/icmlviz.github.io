@@ -21,7 +21,8 @@ Batch-Normalized Maxout Network in Network
 
 Visualizing Online Learner Patterns
 
-<br>
+10:00-10:30 Breaks
+
 
 10:30-11:00 Invited talk.  Christopher Olah (Google)
 
@@ -42,7 +43,7 @@ Characterizing Visual Representations within Convolutional Neural Networks: Towa
 
 <br>
 
-Breaks
+Lunch Breaks
 
 <br>
 
@@ -60,9 +61,9 @@ Visualizing Deep Texture Representations
 
 14:40-15:00 Discussion
 
-<br>
+15:00-15:30 Breaks
 
-15:30-16:00 ***Realistic Visual Manipulation on the Natural Image Manifold*** Jun-Yan Zhu
+15:30-16:00 Invited talk. ***Realistic Visual Manipulation on the Natural Image Manifold*** Jun-Yan Zhu
 
 16:00-16:15 ***Visualizing Dynamics: from t-SNE to SEMI-MDPs*** Nir Ben Zrihem, Tom Zahavy, Shie Mannor
 

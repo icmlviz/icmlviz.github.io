@@ -35,8 +35,7 @@ Workshop: ***June 23, 2016***   (Astor at Marriott Marquis)
 
 ##### Luke Yeager (NVIDIA)
 
-(More to come!)
-
+##### [Junyan Zhu], (University of California, Berkeley)
 
 ## Organizers:
 	
