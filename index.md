@@ -8,7 +8,7 @@ layout: default
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
  
 
-## ***[Schedule]*** is available now! ##
+## The workshop is held at the Astor room (7th floor) at Marriott on Thursday. ***[Schedule]*** is available now! ##
 
 ## Abstract##
 
