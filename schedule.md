@@ -30,7 +30,7 @@ Visualizing Online Learner Patterns
 
 11:15-11:30 ***Analyzing and Validating Neural Networks Predictions*** Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Mullers
 
-11:30-11:45 ***Towards an Understanding of Parameter Space: Spectral Decomposition of Deep Network Optimization Trajectories*** Eliana Lorch 
+11:30-11:45 ***<s>Towards an Understanding of Parameter Space: Spectral Decomposition of Deep Network Optimization Trajectories</s>*** (Rescheduled to 16:30 PM) Eliana Lorch 
 
 11:45-12:00 Spotlight paper talks:
 
@@ -69,7 +69,9 @@ Visualizing Deep Texture Representations
 
 16:15-16:30 ***Visual Tools for Debugging Neural Language Models*** Xin Rong, Eytan Adar
 
-16:30 Awards ceremony& Closing remarks 
+16:30-16:45 ***Towards an Understanding of Parameter Space: Spectral Decomposition of Deep Network Optimization Trajectories*** Eliana Lorch 
+
+16:45 Awards ceremony& Closing remarks 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
