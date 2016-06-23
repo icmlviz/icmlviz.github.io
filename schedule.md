@@ -30,7 +30,7 @@ Visualizing Online Learner Patterns
 
 11:15-11:30 ***Analyzing and Validating Neural Networks Predictions*** Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Mullers
 
-11:30-11:45 ***Visualizing Deep Network Training Trajectories with PCA*** Eliana Lorch 
+11:30-11:45 ***Towards an Understanding of Parameter Space: Spectral Decomposition of Deep Network Optimization Trajectories*** Eliana Lorch 
 
 11:45-12:00 Spotlight paper talks:
 
