@@ -8,7 +8,7 @@ order: 2
 ***[Visualizing Dynamics: from t-SNE to SEMI-MDPs]***
 Nir Ben Zrihem, Tom Zahavy, Shie Mannor
 
-<span style="color:red">***(Best paper price)***</span> ***[Visual Tools for Debugging Neural Language Models]***
+<span style="color:red">***(Best paper prize)***</span> ***[Visual Tools for Debugging Neural Language Models]***
 Xin Rong, Eytan Adar
 
 ***[Effective Visualizations for Training and Evaluating Deep Models]***
@@ -44,7 +44,7 @@ Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, Shixia Liu
 ***[Visualizing and Comparing AlexNet and VGG using Deconvolutional Layers]***
 Wei Yu, Kuiyuan Yang, Yalong Bai, Hongxun Yao, Yong Rui
 
-<span style="color:red">***(Best paper price)***</span> ***[Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]***
+<span style="color:red">***(Best paper prize)***</span> ***[Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]***
 Anh Nguyen, Jason Yosinski, Jeff Clune 
 
 ***[Batch-Normalized Maxout Network in Network]***
@@ -61,7 +61,7 @@ Tsung-Yu Lin, Subhransu Maji
 Wei Yu, Kuiyuan Yang, Yalong Bai, Hongxun Yao
 
 
-<span style="color:red">***(Best paper price)***</span> ***[Analyzing and Validating Neural Networks Predictions]***
+<span style="color:red">***(Best paper prize)***</span> ***[Analyzing and Validating Neural Networks Predictions]***
 Alexander Binder, Wojciech Samek, Gregoire Montavon, Sebastian Bach, Klaus-Robert Muller
 
 
