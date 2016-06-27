@@ -21,11 +21,11 @@ Daniel Smilkov, Shan Carter, D. Sculley, Fernanda B. Viegas, Martin Wattenberg
 ***[Visualizing Deep Network Training Trajectories with PCA]***
 Eliana Lorch
 
-***[Towards Transparent AI Systems: Interpreting Visual Question Answering Models]***
+<span style="color:red">***(Best student paper)***</span> ***[Towards Transparent AI Systems: Interpreting Visual Question Answering Models]***
 Yash Goyal, Devi Parikh, Dhruv Batra
 
 
-***[Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?]***
+<span style="color:red">***(Best student paper)***</span> ***[Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?]***
 Abhishek Das, Harsh Agrawal, Larry Zitnick, Devi Parikh, Dhruv Batra
 
 ***[Visualizing Online Learner Patterns]***
@@ -44,7 +44,7 @@ Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, Shixia Liu
 ***[Visualizing and Comparing AlexNet and VGG using Deconvolutional Layers]***
 Wei Yu, Kuiyuan Yang, Yalong Bai, Hongxun Yao, Yong Rui
 
-<span style="color:red">***(Best paper prize)***</span> ***[Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]***
+<span style="color:red">***(Best paper prize and best student paper)***</span> ***[Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks]***
 Anh Nguyen, Jason Yosinski, Jeff Clune 
 
 ***[Batch-Normalized Maxout Network in Network]***
