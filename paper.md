@@ -22,7 +22,7 @@ Daniel Smilkov, Shan Carter, D. Sculley, Fernanda B. Viegas, Martin Wattenberg
 Eliana Lorch
 
 <span style="color:red">***(Best student paper)***</span> ***[Towards Transparent AI Systems: Interpreting Visual Question Answering Models]***
-Yash Goyal, Devi Parikh, Dhruv Batra
+Yash Goyal, Akrit Mohapatra, Devi Parikh, Dhruv Batra
 
 
 <span style="color:red">***(Best student paper)***</span> ***[Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?]***
