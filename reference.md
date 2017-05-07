@@ -10,7 +10,9 @@ Here is a list of the papers in the past year that related to this topic. You ca
 
 Feel free to email bjiang [at] berkeley.edu if you know any other related papers. This will greatly help us find out the audience and contributors for the workshop. 
 
+
 ***Related workshops***
+
 [2016 Workshop on Human Interpretability in Machine Learning at ICML]
 
 [ACCV 2016 Workshop on Interpretation and Visualization of Deep Neural Nets]
