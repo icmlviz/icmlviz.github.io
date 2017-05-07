@@ -2,39 +2,32 @@
 layout: default
 ---
 
-# 2016 Workshop on Visualization for Deep Learning
+# 2017 Workshop on Visualization for Deep Learning
 ![Teaser](/assets/deepdream.jpg)
 
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
  
 
-## The workshop is held at the Astor room (7th floor) at Marriott on Thursday. ***[Schedule]*** is available now! ##
-
 ## Abstract##
 
 Deep networks have had profound impact across machine learning research and in many application areas. DNNs are complex to design and train. They are non-linear systems that almost always have many local optima and are often sensitive to training parameter settings and initial state. Systematic optimization of structure and hyperparameters is possible e.g. with Bayesian optimization, but hampered by the expense of training each design on realistic datasets. Exploration is still ongoing for best design principles. We argue that visualization can play an essential role in understanding DNNs and in developing new design principles. With rich tools for visual exploration of networks during training and inference, one should be able to form closer ties between theory and practice: validating expected behaviors, and exposing the unexpected which can lead to new insights. 
 
-View ***[accepted papers]*** for more details. Also, [here] is a list of reference papers related to this topics in the past. Let us know if you can recommend more!  
+The workshop has been held ***[last year]***. This year, with the rise of generative modeling and reinforcement learning, more interesting directions like understanding and visualization of generative models, visual explanation for driving policy could be explored as well. 
+
+***[Here]*** is a list of reference papers related to this topics in the past. Let us know if you can recommend more!  
 
 ## Important Dates ##
 
-Submission deadline: <s>9AM PDT, May 6, 2016</s>
+Submission deadline: 9AM PDT, May 26, 2017
 
-Acceptance notification:  <s>May 10, 2016</s>
+Acceptance notification:  June 16, 2017
 
-Workshop: ***June 23, 2016***  (Astor at Marriott Marquis)
+Workshop: ***Aug 10/11, 2017***  
 
 
 ## Invited speakers ##
 
-##### [Martin Wattenberg] (Google)
-
-##### [Christopher Olah] (Google)
-
-##### Luke Yeager (NVIDIA)
-
-##### [Junyan Zhu], (University of California, Berkeley)
-
+To be announced
 
 ## Organizers:
 	
@@ -42,34 +35,23 @@ Workshop: ***June 23, 2016***  (Astor at Marriott Marquis)
 
 ##### [Polo Chau] (Georgia Tech, polo@gatech.edu)
 
+##### [Xiangmin Fan] (Chinese Academy of Sciences, xiangmin@cs.pitt.edu)
+
 ##### [Biye Jiang] (UC Berkeley, bjiang@berkeley.edu)
 
-##### [Aditya Khosla] (MIT, khosla@csail.mit.edu)
+##### [Jun-Yan Zhu] (UC Berkeley, junyanz@berkeley.edu)
 
 ## Program Committee ##
 
-##### [Byron Boots], Georgia Tech
-
 ##### [Jeff Clune], University of Wyoming
-
-##### [Shixia Liu], Tsinghua Univerisity
 
 ##### [Wojciech Samek], Heinrich Hertz Institute
  
-##### [Le Song], Georgia Tech
-
 ##### [Yingnian Wu], University of California, Los Angeles
 
-##### [Jason Yosinski], Cornell University
-
-##### [Junyan Zhu], University of California, Berkeley
 
 ## Sponsor ##
-<img src="/assets/googlelogo.png" width="200px"/>
-
-<br>
-
-<img src="/assets/NVLogo_2D.jpg" width="200px"/>
+To be announced
 
 
 ## Topics:##
@@ -105,17 +87,22 @@ Likely topics for the workshop include, but are not limited to:
 
 •	Visualization and interaction user interfaces
 
-## <s>Call for papers:</s>## 
+•	Understanding and visualization of generative models
+
+•	Visual explanation for driving policy
+
+
+## Call for papers: ## 
 We accept many kinds of papers, such as (and not limited to): 
 Extended abstract, short papers, work-in-progress papers and demo papers. You can also submit your published work as 2-page summarization.
 
 We encourage submissions of relevant work that has been previously published, or is to be presented at the main conference. The accepted papers will be posted on the workshop website and will not appear in the official ICML proceedings.
 
-Submissions must be in PDF, written in English, no more than 8 pages long — shorter papers are welcome — and formatted according to the standard ICML 2016 [guideline]. Submissions do not have to be anonymized.
+Submissions must be in PDF, written in English, no more than 8 pages long — shorter papers are welcome — and formatted according to the standard ICML 2017 ***[guideline]***. Submissions do not have to be anonymized.
 
 For accepted papers, at least one author must attend the workshop to present the work.
 
-Submission website: [https://cmt3.research.microsoft.com/VDL2016]
+***Submission website***: [https://cmt3.research.microsoft.com/VDL2017]
 
 
 
@@ -124,9 +111,11 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [Biye Jiang]: http://byeah.github.io
 [John Canny]: http://www.eecs.berkeley.edu/~jfc/
 [Polo Chau]: http://www.cc.gatech.edu/~dchau/
+[Xiangmin Fan]: http://www.xiangminfan.com
+[Jun-Yan Zhu]: http://people.eecs.berkeley.edu/~junyanz/
 [Aditya Khosla]: https://people.csail.mit.edu/khosla/
-[guideline]: http://icml.cc/2016/?page_id=151
-[https://cmt3.research.microsoft.com/VDL2016]: https://cmt3.research.microsoft.com/VDL2016
+[guideline]: https://2017.icml.cc/Conferences/2017/StyleAuthorInstructions
+[https://cmt3.research.microsoft.com/VDL2017]: https://cmt3.research.microsoft.com/VDL2017
 [here]: /reference
 [accepted papers]: /papers	
 [Jeff Clune]: http://jeffclune.com/
@@ -142,6 +131,7 @@ Submission website: [https://cmt3.research.microsoft.com/VDL2016]
 [Martin Wattenberg]: http://www.bewitched.com/about.html
 [Christopher Olah]: http://colah.github.io/about.html
 [Schedule]: /schedule
+[Last year]: https://icmlviz.github.io/icmlviz2016/
 
 
 <script>
