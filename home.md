@@ -22,7 +22,7 @@ The workshop has been held ***[last year]***. This year, with the rise of genera
 
 ## Important Dates ##
 
-Submission deadline: 9AM PDT, May 26, 2017
+Submission deadline: 9AM PDT, May 26, 2017 (Could be extended)
 
 Acceptance notification:  June 16, 2017
 
