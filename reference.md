@@ -13,6 +13,8 @@ Feel free to email bjiang [at] berkeley.edu if you know any other related papers
 
 ***Related workshops***
 
+[VADL 2017: Workshop on Visual Analytics for Deep Learning]
+
 [2016 Workshop on Human Interpretability in Machine Learning at ICML]
 
 [ACCV 2016 Workshop on Interpretation and Visualization of Deep Neural Nets]
@@ -26,7 +28,6 @@ Feel free to email bjiang [at] berkeley.edu if you know any other related papers
 [IJCAI 2016 workshop on Interactive Machine Learning: Connecting Humans and Machines]
 
 [Human Centred Machine Learning at CHI 2016]
-
 
 ***CNN & Vision***
 
@@ -69,6 +70,8 @@ Zachary C. Lipton
 
 [The Mythos of Model Interpretability]: https://arxiv.org/pdf/1606.03490.pdf
 
+
+[VADL 2017: Workshop on Visual Analytics for Deep Learning]: https://vadl2017.github.io/
 
 [ACCV 2016 Workshop on Interpretation and Visualization of Deep Neural Nets]: http://interpretable-ml.org/accv2016workshop/
 
