@@ -51,6 +51,8 @@ Paulo E. Rauber, Samuel G. Fadel, Alexandre X. Falcao, and Alexandru C. Telea
 [Towards Better Analysis of Deep Convolutional Neural Networks]
 Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu
 
+[The Mythos of Model Interpretability]
+Zachary C. Lipton
 
 
 [Cooperative Training of Descriptor and Generator Network]: http://www.stat.ucla.edu/~ywu/CoopNets/main.html
@@ -65,6 +67,7 @@ Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu
 
 [Towards Better Analysis of Deep Convolutional Neural Networks]: https://arxiv.org/pdf/1604.07043.pdf
 
+[The Mythos of Model Interpretability]: https://arxiv.org/pdf/1606.03490.pdf
 
 
 [ACCV 2016 Workshop on Interpretation and Visualization of Deep Neural Nets]: http://interpretable-ml.org/accv2016workshop/
