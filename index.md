@@ -18,11 +18,11 @@ The workshop has been held ***[last year]***. This year, with the rise of genera
 
 ## Important Dates ##
 
-Submission deadline: 9AM PDT, May 26, 2017 (Could be extended)
+Submission deadline: 9PM PDT, June 10, 2017 (Could be extended)
 
 Acceptance notification:  June 16, 2017
 
-Workshop: ***Aug 10/11, 2017*** at Sydney, Australia
+Workshop: ***Aug 10, 2017*** at Sydney, Australia
 
 
 ## Invited speakers ##
