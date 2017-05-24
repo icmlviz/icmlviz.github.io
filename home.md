@@ -53,6 +53,8 @@ To be announced
  
 ##### [Yingnian Wu], University of California, Los Angeles
 
+##### [Jason Yosinski], Uber AI Labs
+
 
 ## Sponsor ##
 To be announced
