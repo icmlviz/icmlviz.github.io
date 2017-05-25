@@ -55,6 +55,9 @@ Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu
 [The Mythos of Model Interpretability]
 Zachary C. Lipton
 
+[Project Magenta: Make Music and Art Using Machine Learning]
+
+[Project Magenta: Make Music and Art Using Machine Learning]: https://magenta.tensorflow.org/
 
 [Cooperative Training of Descriptor and Generator Network]: http://www.stat.ucla.edu/~ywu/CoopNets/main.html
 
