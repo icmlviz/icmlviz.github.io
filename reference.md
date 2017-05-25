@@ -40,6 +40,10 @@ Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, and Jeff Clune
 [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks]
 Anh Nguyen, Alexey Dosovitskiy, Jason Yosinski, Thomas Brox, and Jeff Clune
 
+[A Neural Representation of Sketch Drawings]
+David Ha, Douglas Eck
+
+
 
 ***Others***
 
@@ -56,6 +60,17 @@ Mengchen Liu, Jiaxin Shi, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu
 Zachary C. Lipton
 
 [Project Magenta: Make Music and Art Using Machine Learning]
+
+[Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders]
+Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi
+
+
+
+
+[A Neural Representation of Sketch Drawings]: https://arxiv.org/pdf/1704.03477.pdf
+
+[Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders]: https://arxiv.org/pdf/1704.01279.pdf
+
 
 [Project Magenta: Make Music and Art Using Machine Learning]: https://magenta.tensorflow.org/
 
