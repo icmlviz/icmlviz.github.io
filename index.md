@@ -22,7 +22,7 @@ Submission deadline: 9PM PDT, June 10, 2017 (Could be extended)
 
 Acceptance notification:  June 16, 2017
 
-Workshop: ***Aug 10, 2017*** at Sydney, Australia
+Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 
 ## Invited speakers ##
@@ -50,6 +50,8 @@ To be announced
 ##### [Yingnian Wu], University of California, Los Angeles
 
 ##### [Jason Yosinski], Uber AI Labs
+
+##### [Devi Parikh], Georgia Tech
 
 
 ## Sponsor ##
@@ -134,6 +136,10 @@ For accepted papers, at least one author must attend the workshop to present the
 [Christopher Olah]: http://colah.github.io/about.html
 [Schedule]: /schedule
 [Last year]: https://icmlviz.github.io/icmlviz2016/
+[ICML 2017]: https://2017.icml.cc/
+[Devi Parikh]: https://filebox.ece.vt.edu/~parikh/
+
+
 
 
 <script>

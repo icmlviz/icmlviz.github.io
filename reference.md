@@ -43,6 +43,12 @@ Anh Nguyen, Alexey Dosovitskiy, Jason Yosinski, Thomas Brox, and Jeff Clune
 [A Neural Representation of Sketch Drawings]
 David Ha, Douglas Eck
 
+[Visualizing Deep Neural Network Decisions: Prediction Difference Analysis]
+Luisa M Zintgraf, Taco S Cohen, Tameem Adel, and Max Welling
+
+[VisualBackProp: visualizing CNNs for autonomous driving]
+Mariusz Bojarski, Anna Choromanska, Krzysztof Choromanski, Bernhard Firner, Larry Jackel, Urs Muller, and Karol Zieba
+
 
 
 ***Others***
@@ -66,6 +72,11 @@ Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen S
 
 
 
+
+
+[Visualizing Deep Neural Network Decisions: Prediction Difference Analysis]: https://arxiv.org/pdf/1702.04595.pdf
+
+[VisualBackProp: visualizing CNNs for autonomous driving]: http://cims.nyu.edu/~achoroma/NonFlash/Papers/VisualBackProp.pdf
 
 [A Neural Representation of Sketch Drawings]: https://arxiv.org/pdf/1704.03477.pdf
 
