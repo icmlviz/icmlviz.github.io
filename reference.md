@@ -49,7 +49,11 @@ Luisa M Zintgraf, Taco S Cohen, Tameem Adel, and Max Welling
 [VisualBackProp: visualizing CNNs for autonomous driving]
 Mariusz Bojarski, Anna Choromanska, Krzysztof Choromanski, Bernhard Firner, Larry Jackel, Urs Muller, and Karol Zieba
 
+[Network Dissection: Quantifying Interpretability of Deep Visual Representations]
+David Bau, Bolei Zhou, Aditya Khosla, Aude Oliva, Antonio Torralba 
 
+[Understanding Intra-Class Knowledge Inside CNN]
+Donglai Wei, Bolei Zhou, Antonio Torrabla, William Freeman
 
 ***Others***
 
@@ -72,6 +76,10 @@ Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen S
 
 
 
+
+[Understanding Intra-Class Knowledge Inside CNN]: https://arxiv.org/pdf/1507.02379.pdf
+
+[Network Dissection: Quantifying Interpretability of Deep Visual Representations]: http://netdissect.csail.mit.edu/
 
 
 [Visualizing Deep Neural Network Decisions: Prediction Difference Analysis]: https://arxiv.org/pdf/1702.04595.pdf
