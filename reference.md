@@ -55,6 +55,10 @@ David Bau, Bolei Zhou, Aditya Khosla, Aude Oliva, Antonio Torralba
 [Understanding Intra-Class Knowledge Inside CNN]
 Donglai Wei, Bolei Zhou, Antonio Torrabla, William Freeman
 
+[Inverting visual representations with convolutional networks]
+Alexey Dosovitskiy, Thomas Brox
+
+
 ***Others***
 
 [ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation]
@@ -74,7 +78,15 @@ Zachary C. Lipton
 [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders]
 Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi
 
+[Visualizing and Understanding Neural Machine Translation]
+Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun
 
+
+
+
+[Visualizing and Understanding Neural Machine Translation]: https://chairs-blog.acl2017.org/2017/04/05/accepted-papers-and-demonstrations/
+
+[Inverting visual representations with convolutional networks]: http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.pdf
 
 
 [Understanding Intra-Class Knowledge Inside CNN]: https://arxiv.org/pdf/1507.02379.pdf

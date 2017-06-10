@@ -18,9 +18,9 @@ The workshop has been held ***[last year]***. This year, with the rise of genera
 
 ## Important Dates ##
 
-Submission deadline: 9PM PDT, June 10, 2017 (Could be extended)
+Submission deadline: Early July, 2017
 
-Acceptance notification:  June 16, 2017
+Acceptance notification:  To be annouced
 
 Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
@@ -53,6 +53,9 @@ To be announced
 
 ##### [Devi Parikh], Georgia Tech
 
+##### [Dhruv Batra], Georgia Tech
+
+##### [Thomas Brox], University of Freiburg
 
 ## Sponsor ##
 To be announced
@@ -138,8 +141,8 @@ For accepted papers, at least one author must attend the workshop to present the
 [Last year]: https://icmlviz.github.io/icmlviz2016/
 [ICML 2017]: https://2017.icml.cc/
 [Devi Parikh]: https://filebox.ece.vt.edu/~parikh/
-
-
+[Dhruv Batra]: http://www.cc.gatech.edu/~dbatra/index.html
+[Thomas Brox]: https://lmb.informatik.uni-freiburg.de/people/brox/
 
 
 <script>
