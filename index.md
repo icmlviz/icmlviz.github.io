@@ -18,7 +18,7 @@ The workshop has been held ***[last year]***. This year, with the rise of genera
 
 ## Important Dates ##
 
-Submission deadline: Early July, 2017
+Submission deadline: Early July, 2017  (Results of the early submissions will be annouced soon)
 
 Acceptance notification:  To be annouced
 
@@ -56,6 +56,10 @@ To be announced
 ##### [Dhruv Batra], Georgia Tech
 
 ##### [Thomas Brox], University of Freiburg
+
+##### [Anh Nguyen], Auburn University
+
+##### [Antonio Torralba], Massachusetts Institute of Technology
 
 ## Sponsor ##
 To be announced
@@ -143,7 +147,8 @@ For accepted papers, at least one author must attend the workshop to present the
 [Devi Parikh]: https://filebox.ece.vt.edu/~parikh/
 [Dhruv Batra]: http://www.cc.gatech.edu/~dbatra/index.html
 [Thomas Brox]: https://lmb.informatik.uni-freiburg.de/people/brox/
-
+[Anh Nguyen]: http://anhnguyen.me/
+[Antonio Torralba]: http://web.mit.edu/torralba/www/
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
