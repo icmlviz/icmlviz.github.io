@@ -27,7 +27,14 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ## Invited speakers ##
 
-To be announced
+##### [Dhruv Batra], Georgia Tech
+
+##### [Pierre Andrews], Facebook 
+
+##### [Phillip Isola], UC Berkeley
+
+##### [Cinjon Resnick], Google
+
 
 ## Organizers:
 	
@@ -60,6 +67,10 @@ To be announced
 ##### [Anh Nguyen], Auburn University
 
 ##### [Antonio Torralba], Massachusetts Institute of Technology
+
+##### [Phillip Isola], UC Berkeley
+
+
 
 ## Sponsor ##
 To be announced
@@ -149,6 +160,8 @@ For accepted papers, at least one author must attend the workshop to present the
 [Thomas Brox]: https://lmb.informatik.uni-freiburg.de/people/brox/
 [Anh Nguyen]: http://anhnguyen.me/
 [Antonio Torralba]: http://web.mit.edu/torralba/www/
+[Phillip Isola]: http://people.eecs.berkeley.edu/~isola/
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
