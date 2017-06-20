@@ -161,6 +161,8 @@ For accepted papers, at least one author must attend the workshop to present the
 [Anh Nguyen]: http://anhnguyen.me/
 [Antonio Torralba]: http://web.mit.edu/torralba/www/
 [Phillip Isola]: http://people.eecs.berkeley.edu/~isola/
+[Pierre Andrews]: https://research.fb.com/people/andrews-pierre/
+[Cinjon Resnick]: https://research.google.com/teams/brain/residency/
 
 
 <script>
