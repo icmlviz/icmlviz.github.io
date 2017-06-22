@@ -84,7 +84,7 @@ Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun
 
 
 
-[Visualizing and Understanding Neural Machine Translation]: https://chairs-blog.acl2017.org/2017/04/05/accepted-papers-and-demonstrations/
+[Visualizing and Understanding Neural Machine Translation]:  http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf
 
 [Inverting visual representations with convolutional networks]: http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.pdf
 
