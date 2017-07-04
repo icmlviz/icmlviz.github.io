@@ -58,6 +58,9 @@ Donglai Wei, Bolei Zhou, Antonio Torrabla, William Freeman
 [Inverting visual representations with convolutional networks]
 Alexey Dosovitskiy, Thomas Brox
 
+[Visualizations of Deep Neural Networks in Computer Vision: A Survey]
+Christin Seifert , Aisha Aamir, Aparna Balagopalan, Dhruv Jain, Abhinav Sharma, Sebastian Grottel, Stefan Gumhold
+
 
 ***Others***
 
@@ -83,6 +86,8 @@ Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun
 
 
 
+
+[Visualizations of Deep Neural Networks in Computer Vision: A Survey]:https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6
 
 [Visualizing and Understanding Neural Machine Translation]:  http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf
 
