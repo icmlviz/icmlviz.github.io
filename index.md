@@ -35,6 +35,8 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Cinjon Resnick], Google
 
+##### [Bolei Zhou], MIT
+
 
 ## Organizers:
 	
@@ -70,6 +72,7 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Phillip Isola], UC Berkeley
 
+##### [Bolei Zhou], MIT
 
 
 ## Sponsor ##
@@ -163,7 +166,7 @@ For accepted papers, at least one author must attend the workshop to present the
 [Phillip Isola]: http://people.eecs.berkeley.edu/~isola/
 [Pierre Andrews]: https://research.fb.com/people/andrews-pierre/
 [Cinjon Resnick]: https://research.google.com/teams/brain/residency/
-
+[Bolei Zhou]: http://people.csail.mit.edu/bzhou/
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
