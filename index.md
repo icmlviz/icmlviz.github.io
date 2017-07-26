@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2017 Workshop on Visualization for Deep Learning
+# 2017 Workshop on Visualization for Deep learning
 ![Teaser](/assets/deepdream.jpg)
 
 ###### Image credit: [Deep Dream Generator], and Google [Inceptionism]
