@@ -37,6 +37,8 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Bolei Zhou], MIT
 
+##### [Nathan Hodas], Pacific Northwest National Lab
+
 
 ## Organizers:
 	
@@ -74,9 +76,6 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Bolei Zhou], MIT
 
-
-## Sponsor ##
-To be announced
 
 
 ## Topics:##
@@ -167,6 +166,9 @@ For accepted papers, at least one author must attend the workshop to present the
 [Pierre Andrews]: https://research.fb.com/people/andrews-pierre/
 [Cinjon Resnick]: https://research.google.com/teams/brain/residency/
 [Bolei Zhou]: http://people.csail.mit.edu/bzhou/
+[Nathan Hodas]: https://signatures.pnnl.gov/bios/nathan-hodas
+
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
