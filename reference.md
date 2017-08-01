@@ -64,6 +64,9 @@ Christin Seifert , Aisha Aamir, Aparna Balagopalan, Dhruv Jain, Abhinav Sharma, 
 
 ***Others***
 
+[ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models]
+Minsuk Kahng, Pierre Andrews, Aditya Kalro, and Duen Horng (Polo) Chau
+
 [ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation]
 Fred Hohman, Nathan Hodas, and Duen Horng Chau
 
@@ -85,6 +88,9 @@ Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen S
 Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun
 
 
+
+
+[ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models]: https://arxiv.org/pdf/1704.01942.pdf
 
 
 [Visualizations of Deep Neural Networks in Computer Vision: A Survey]:https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6

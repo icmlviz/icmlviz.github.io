@@ -33,15 +33,16 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Dhruv Batra], Georgia Tech
 
-##### [Pierre Andrews], Facebook 
+##### [Pierre Andrews], Facebook  ***ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models***
 
 ##### [Phillip Isola], UC Berkeley
 
-##### [Cinjon Resnick], Google
+##### [Cinjon Resnick], Google ***Understanding Generative Models in Google Brain Magenta***
 
-##### [Bolei Zhou], MIT
+##### [Bolei Zhou], MIT ***Quantifying the Interpretability of Deep Visual Representations***
 
-##### [Nathan Hodas], Pacific Northwest National Lab
+##### [Nathan Hodas], Pacific Northwest National Lab   ***Self-supervised attention for Deep Learning***
+
 
 
 ## Organizers:
