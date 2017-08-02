@@ -19,11 +19,13 @@ The workshop has been held ***[last year]***. This year, with the rise of genera
 
 ## Important Dates ##
 
-Submission deadline: Early July, 2017  (Results of the early submissions will be annouced soon)
+Submission deadline:  <s>Early July, 2017 <s>
 
-Acceptance notification:  To be annouced
+Acceptance notification:   <s>To be annouced <s>
 
 Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
+
+## ***[Schedule]*** is available! 
 
 
 ## Invited speakers ##
