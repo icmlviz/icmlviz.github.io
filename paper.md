@@ -24,7 +24,7 @@ Ge Liu, David Gifford
 Zain Shah
 
 ***Deep saliency: What is learnt by a deep network about saliency?***
-Sen He
+Sen He, Nicolas Pugeault
 
 
 
