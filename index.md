@@ -34,7 +34,7 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Pierre Andrews], Facebook  ***ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models***
 
-##### [Phillip Isola], UC Berkeley
+##### [Phillip Isola], UC Berkeley ***Becoming friends with every pixel***
 
 ##### [Cinjon Resnick], Google ***Understanding Generative Models in Google Brain Magenta***
 
