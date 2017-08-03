@@ -7,7 +7,7 @@ order: 3
 
 8:30-8:45 Opening remark
 
-8:45-9:20 Invited talk. Phillip Isola (UC Berkeley)
+8:45-9:20 Invited talk. ***Becoming friends with every pixel*** Phillip Isola (UC Berkeley)
 
 9:20-9:40 ***[SmoothGrad: removing noise by adding noise]*** Daniel Smilkov, Nikhil Thorat, Been Kim, Fernanda Viegas, Martin M Wattenberg
 
@@ -31,7 +31,7 @@ Lunch Breaks
 
 15:00-15:30 Coffee Breaks and Poster session
 
-15:30-16:00 ***Visual Explanations from Deep Networks*** Dhruv Batra (Georgia Tech)
+15:30-16:00 ***Visual Explanations from Deep Networks*** Dhruv Batra (Georgia Tech and Facebook AI Research)
 
 16:00-16:20 ***[Evolutionary Visual Analysis of Deep Neural Networks]*** Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, Klaus Mueller
 

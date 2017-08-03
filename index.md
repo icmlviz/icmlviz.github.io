@@ -30,7 +30,7 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ## Invited speakers ##
 
-##### [Dhruv Batra], Georgia Tech ***Visual Explanations from Deep Networks***
+##### [Dhruv Batra], Georgia Tech and Facebook AI Research ***Visual Explanations from Deep Networks***
 
 ##### [Pierre Andrews], Facebook  ***ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models***
 
