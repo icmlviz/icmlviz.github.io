@@ -23,7 +23,9 @@ Submission deadline:  <s>Early July, 2017 <s>
 
 Acceptance notification:   <s>To be annouced <s>
 
-Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
+Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]  
+
+### Location: ***C4.3 International Convention Centre***
 
 ## ***[Schedule]*** is available! 
 

@@ -5,6 +5,8 @@ permalink: /schedule/
 order: 3
 ---
 
+Location: ***C4.3 International Convention Centre***
+
 8:30-8:45 Opening remark
 
 8:45-9:20 Invited talk. ***Becoming friends with every pixel*** Phillip Isola (UC Berkeley)
