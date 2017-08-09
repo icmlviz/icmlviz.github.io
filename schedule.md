@@ -41,7 +41,7 @@ Location: ***C4.3 International Convention Centre***
 
 16:20-16:50 Invited talk. ***[ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models]*** Pierre Andrews (Facebook)
 
-16:50-17:30 Panel discussion. Brainstorming on deep learning visualization tools
+16:50-17:30 Panel discussion. ***[Brainstorming on deep learning visualization tools]***
 
 17:30 Closing remarks
 
@@ -54,7 +54,7 @@ Location: ***C4.3 International Convention Centre***
 [Visualizing Feature Maps in Deep Neural Networks using DeepResolve - A Genomics Case Study]: ../assets/papers/7.pdf
 [Skip-Frame Embeddings for Feature Adaptation and Visualization]: ../assets/papers/8.pdf
 [ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models]: https://arxiv.org/pdf/1704.01942.pdf
-
+[Brainstorming on deep learning visualization tools]: https://goo.gl/forms/9Aq9TgRIymC1q5Nu2
 
 
 

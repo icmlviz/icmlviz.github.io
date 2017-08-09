@@ -29,6 +29,8 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ## ***[Schedule]*** is available! 
 
+## A ***[Survey]*** for the panel discussion
+
 
 ## Invited speakers ##
 
@@ -172,7 +174,7 @@ For accepted papers, at least one author must attend the workshop to present the
 [Cinjon Resnick]: https://research.google.com/teams/brain/residency/
 [Bolei Zhou]: http://people.csail.mit.edu/bzhou/
 [Nathan Hodas]: https://signatures.pnnl.gov/bios/nathan-hodas
-
+[Survey]: https://goo.gl/forms/9Aq9TgRIymC1q5Nu2
 
 
 <script>
