@@ -28,9 +28,9 @@ Zain Shah
 
 
 [Deep saliency: What is learnt by a deep network about saliency?]: ../assets/papers/1.pdf
-[Evolutionary Visual Analysis of Deep Neural Networks]: ../assets/papers/2.pdf
+[Evolutionary Visual Analysis of Deep Neural Networks]: ../assets/papers/5.pdf
 [SmoothGrad: removing noise by adding noise]: ../assets/papers/3.pdf
-[Towards Visual Explanations for Convolutional Neural Networks via Input Resampling]: ../assets/papers/5.pdf
+[Towards Visual Explanations for Convolutional Neural Networks via Input Resampling]: ../assets/papers/2.pdf
 [Quantifying Interpretations of Deep Visual Representations]: ../assets/papers/6.pdf
 [Visualizing Feature Maps in Deep Neural Networks using DeepResolve - A Genomics Case Study]: ../assets/papers/7.pdf
 [Skip-Frame Embeddings for Feature Adaptation and Visualization]: ../assets/papers/8.pdf
