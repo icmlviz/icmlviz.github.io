@@ -35,7 +35,7 @@ Location: ***C4.3 International Convention Centre***
 
 15:00-15:30 Coffee Breaks and Poster session
 
-15:30-16:00 Invited talk. ***Visual Explanations from Deep Networks*** Dhruv Batra (Georgia Tech and Facebook AI Research)
+15:30-16:00 Invited talk. ***[Visual Explanations from Deep Networks]*** Dhruv Batra (Georgia Tech and Facebook AI Research)
 
 16:00-16:20 ***[Evolutionary Visual Analysis of Deep Neural Networks]*** Wen Zhong, Cong Xie, Yuan Zhong, Yang Wang, Wei Xu, Shenghui Cheng, Klaus Mueller
 
@@ -50,7 +50,8 @@ Location: ***C4.3 International Convention Centre***
 [Evolutionary Visual Analysis of Deep Neural Networks]: ../assets/papers/2.pdf
 [SmoothGrad: removing noise by adding noise]: ../assets/papers/3.pdf
 [Towards Visual Explanations for Convolutional Neural Networks via Input Resampling]: ../assets/papers/5.pdf
-[Quantifying the Interpretability of Deep Visual Representations]: ../assets/papers/6.pdf
+[Quantifying the Interpretability of Deep Visual Representations]: http://people.csail.mit.edu/bzhou/ppt/presentation_ICML_workshop.pdf
+[Visual Explanations from Deep Networks]: http://www.cc.gatech.edu/~dbatra/talks/dhruv_batra_gradcam.pptx
 [Visualizing Feature Maps in Deep Neural Networks using DeepResolve - A Genomics Case Study]: ../assets/papers/7.pdf
 [Skip-Frame Embeddings for Feature Adaptation and Visualization]: ../assets/papers/8.pdf
 [ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models]: https://arxiv.org/pdf/1704.01942.pdf

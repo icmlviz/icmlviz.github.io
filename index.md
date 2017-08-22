@@ -34,7 +34,7 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ## Invited speakers ##
 
-##### [Dhruv Batra], Georgia Tech and Facebook AI Research ***Visual Explanations from Deep Networks***
+##### [Dhruv Batra], Georgia Tech and Facebook AI Research ***[Visual Explanations from Deep Networks]***
 
 ##### [Pierre Andrews], Facebook  ***ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models***
 
@@ -42,7 +42,7 @@ Workshop: ***Aug 10, 2017*** at Sydney, Australia, [ICML 2017]
 
 ##### [Cinjon Resnick], Google ***Understanding Generative Models in Google Brain Magenta***
 
-##### [Bolei Zhou], MIT ***Quantifying the Interpretability of Deep Visual Representations***
+##### [Bolei Zhou], MIT ***[Quantifying the Interpretability of Deep Visual Representations]***
 
 ##### [Nathan Hodas], Pacific Northwest National Lab   ***Self-supervised attention for Deep Learning***
 
@@ -175,7 +175,8 @@ For accepted papers, at least one author must attend the workshop to present the
 [Bolei Zhou]: http://people.csail.mit.edu/bzhou/
 [Nathan Hodas]: https://signatures.pnnl.gov/bios/nathan-hodas
 [Survey]: https://goo.gl/forms/9Aq9TgRIymC1q5Nu2
-
+[Quantifying the Interpretability of Deep Visual Representations]: http://people.csail.mit.edu/bzhou/ppt/presentation_ICML_workshop.pdf
+[Visual Explanations from Deep Networks]: http://www.cc.gatech.edu/~dbatra/talks/dhruv_batra_gradcam.pptx
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
